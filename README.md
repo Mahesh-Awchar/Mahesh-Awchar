@@ -1,24 +1,10 @@
-<p align="center">
-  <img src="https://github.com/mahesh-awchar/mahesh-awchar/blob/main/A_digital_illustration_in_an_anime_and_cyberpunk_a.png?raw=true" alt="Mahesh Awchar - Anime Banner" />
-</p>
 
-# こんにちは (Konnichiwa!) — Welcome, Fellow Explorer of Code & Cosmos!
+# Welcome to My GitHub Profile!
 
-I'm **Mahesh Awchar** —  
-Your friendly neighborhood **AI ninja**, **data sorcerer**, and **cybersecurity shadow walker**.  
-By day, I tame algorithms; by night, I dive into the matrix of machine minds and digital defenses.
+![Anime Banner](./anime-banner.png)
 
-> _"Just like in anime, my journey has arcs — each project, a new transformation."_
-
-**Special Moves:**  
-- Summoning Large Language Models  
-- Unleashing Cyber Shields  
-- Data Alchemy & Visualization  
-- Deploying Cloud Mecha Warriors
-
-**Genre:** Action | Sci-Fi | Slice of Code | Techno-Mystery  
-**Currently Watching:** Humanity vs Data Crisis  
-**Next Episode:** Building the Next Open Source Hero Tool
+Hi there! I'm **Mahesh Awchar**, a passionate developer, AI enthusiast, data science student, and cybersecurity practitioner.  
+I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ---
 
@@ -41,7 +27,7 @@ By day, I tame algorithms; by night, I dive into the matrix of machine minds and
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🧠 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
